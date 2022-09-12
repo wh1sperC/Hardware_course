@@ -3,9 +3,9 @@
 May 24 2019
 15:06:07
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
-E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sim_1/new/tb.v,1661101911,verilog,,,,tb,,,,,,,,
+E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sim_1/new/tb.v,1662961819,verilog,,,,tb,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/ALU.v,1660983875,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/CPU.v,,alu,,,,,,,,
-E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/CPU.v,1660988152,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,,mccpu,,,,,,,,
+E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/CPU.v,1662983576,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,,mccpu,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,1660983952,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MEM.v,,mccu,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MEM.v,1660999869,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MIPS.v,,mcmem,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MIPS.v,1660983858,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MUX.v,,mccomp,,,,,,,,

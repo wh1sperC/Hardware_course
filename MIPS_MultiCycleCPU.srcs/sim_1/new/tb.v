@@ -33,7 +33,7 @@ initial begin clock=1;resetn=0;mem_clk=0;
 // #0 $display("time\tclock\tresetn\tq\tir\tpc\ta\tb\talu\tfromem\ttomem");
 #1 resetn=1;
 end
-always #2 mem_clk=~mem_clk;
+always #1 mem_clk=~mem_clk;
 always #2 clock=~clock;
 
 
