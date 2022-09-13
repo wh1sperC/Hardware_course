@@ -29,15 +29,30 @@ module tb(
 
 wire [31:0] a,b,alu,adr,tom,fromm,pc,ir;
 wire [2:0] state;
-initial begin clock=1;resetn=0;mem_clk=0;
+
+mccomp m(clock,resetn,state,a,b,alu,adr,tom,fromm,pc,ir,mem_clk); 
+
+initial begin resetn=0;mem_clk=0;
 // #0 $display("time\tclock\tresetn\tq\tir\tpc\ta\tb\talu\tfromem\ttomem");
 #1 resetn=1;
 end
-always #1 mem_clk=~mem_clk;
-always #2 clock=~clock;
+// always #1 mem_clk=~mem_clk;
+// always #2 clock=~clock;
+always begin
+    clock=1;
+    #2;
+    clock=0;
+    #2;
+end
+
+always begin
+    mem_clk=0;
+    #1;
+    mem_clk=1;
+    #1;
+end
 
 
-mccomp m(clock,resetn,state,a,b,alu,adr,tom,fromm,pc,ir,mem_clk); 
 // initial begin
 // $dumpfile("test.vcd"); 
 // $dumpvars;

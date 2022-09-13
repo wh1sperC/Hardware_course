@@ -30,7 +30,7 @@ module alu(a,b,aluc,r,z);
 	assign z = ~|r;
 	
 	function [31:0] cal;
-		input [31:0] a,n;
+		input [31:0] a,b;
 		input [3:0] aluc;
 		casex (aluc)
 			4'bx000: cal = a+b;

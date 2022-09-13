@@ -35,6 +35,7 @@ always @(posedge clk or negedge clrn)
 if(clrn==0) begin
 for (i=1; i<32; i=i+1)
 register[i]<=0;
-end else if ( (wn != 0)&& we)
+end 
+else if ( (wn != 0)&& we)
 register[wn]<= d;
 endmodule
