@@ -6,7 +6,7 @@ E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/gl
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sim_1/new/tb.v,1662961819,verilog,,,,tb,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/ALU.v,1663031748,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/CPU.v,,alu,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/CPU.v,1663029577,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,,mccpu,,,,,,,,
-E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,1660983952,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MEM.v,,mccu,,,,,,,,
+E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/Control.v,1663033286,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MEM.v,,mccu,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MEM.v,1660999869,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MIPS.v,,mcmem,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MIPS.v,1660983858,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MUX.v,,mccomp,,,,,,,,
 E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/MUX.v,1660984042,verilog,,E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.srcs/sources_1/new/RegFile.v,,mux2x32;mux2x5;mux4x32,,,,,,,,
