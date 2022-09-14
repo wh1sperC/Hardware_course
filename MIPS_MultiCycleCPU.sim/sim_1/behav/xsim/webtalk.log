@@ -2,13 +2,14 @@
 # Webtalk v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Mon Sep 12 13:50:50 2022
-# Process ID: 64756
+# Start of session at: Wed Sep 14 14:09:30 2022
+# Process ID: 35620
 # Current directory: E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim
 # Command line: wbtcv.exe -mode batch -source E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/webtalk.log
 # Journal file: E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
 source E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
-INFO: [Common 17-186] 'E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Mon Sep 12 13:50:54 2022. For additional details about this file, please refer to the WebTalk help file at G:/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
-INFO: [Common 17-206] Exiting Webtalk at Mon Sep 12 13:50:54 2022...
+INFO: [Common 17-186] 'E:/Hardware_course/MIPS_MultiCycleCPU/MIPS_MultiCycleCPU.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Wed Sep 14 14:09:36 2022. For additional details about this file, please refer to the WebTalk help file at G:/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 91.598 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Wed Sep 14 14:09:36 2022...
